@@ -1,4 +1,4 @@
-# Mobile-Phone-recommendation-expert-system
+# Mobile-Phone-recommendation-expert-system using CLIPS
 
 How to run?
 
